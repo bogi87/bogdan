@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Bogdan Nedeljković",
+    "label": "Programer",
+    "picture": "",
+    "email": "nedeljkovicbogdan@gmail.com",
+    "phone": "0601352844",
+    "website": "",
+    "summary": "Ambitious, tenacious, practical, well-organized, quick learner. Loyal and hard worker, willing to work in a team and independently.",
+    "location": {
+      "address": "Jug Bogdanova 67, Mekiš",
+      "postalCode": "18410 Doljevac",
+      "city": "Niš",
+      "countryCode": "Srbija",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Johnson Electric Niš ",
+      "position": "Maintenance technician assembly",
+      "website": "",
+      "startDate": "25.09.2015",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "SECURITAS SERVICES Ltd.",
+      "position": "reader of electric current counters",
+      "website": "",
+      "startDate": "01.04.2007",
+      "endDate": "12.05.2014 ",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Nis – Faculty of Electronic engineering ",
+      "area": "Software engineering ",
+      "studyType": "",
+      "startDate": "01.10.2006",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "High school of electrical engineering “Nikola Tesla” Nis",
+      "area": "Computer technician",
+      "studyType": "",
+      "startDate": "2002",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Beginer",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Desktop Developement",
+      "level": "Beginer",
+      "keywords": [
+        "C/C++",
+        "C#"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Beginer",
+      "keywords": [
+        "MySQL",
+        "Oracle",
+        "PL/SQL"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Beginer",
+      "keywords": [
+        "3D Studio Max",
+        "UML"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
